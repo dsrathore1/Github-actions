@@ -17,7 +17,7 @@ export const App = () => {
       <h1>My frontend</h1>
       <h1>My name is {userName}</h1>
     </div>
-  )
+  );
 }
 
 export default App;
